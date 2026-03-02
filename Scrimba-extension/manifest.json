@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "version": "1.1",
+  "name": "Michael chrome-extension",
+  "description": "Michael first extension to be made",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icons.jpg"
+  },
+  "permissions": ["tabs"]
+}
